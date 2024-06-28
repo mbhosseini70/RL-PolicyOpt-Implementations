@@ -25,7 +25,9 @@ The project consists of several Python files that implement different components
 - **`main.py`**: The main script to run the entire codebase.
 
 ## Usage
-To run the project, execute the main.py script. This will initiate the training and evaluation process using the specified optimization methods.
+
+To run the project, execute the `main.py` script. This will initiate the training and evaluation process using the specified optimization methods.
 
 ## Results
-In the report file, we compares the results obtained from different optimization methods, providing insights into their performance and efficiency in solving the LunarLanderContinuous task.
+
+The report (The PDF file) compares the results obtained from different optimization methods, providing insights into their performance and efficiency in solving the LunarLanderContinuous task.
