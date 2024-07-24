@@ -3,7 +3,7 @@
 ## Introduction
 This project is part of a Reinforcement Learning (RL) course, with the primary objective of implementing an RL agent to perform the LunarLanderContinuous task using OpenAI Gym. The project explores various optimization techniques to enhance the agent's learning process, focusing on Policy Gradient Optimization and Gradient-Free Optimization methods.
 
-The project is structured into several tasks that investigate different optimization approaches. This README provides an overview of the project, its environment, and the files included.
+The project is structured into several tasks that investigate different optimization approaches (Gradient Descent Optimization - Zero-Order Optimization and Basic Population Method as Gradient-Free Optimization Techniques). This README provides an overview of the project, its environment, and the files included.
 
 ## Environment
 ### LunarLanderContinuous-v2
